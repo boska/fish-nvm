@@ -10,9 +10,9 @@ With [fisherman]
 fisher FabioAntunes/fish-nvm
 ```
 
-With omf
+With [omf]
 ```fish
-fisher https://github.com/FabioAntunes/fish-nvm
+omf install https://github.com/FabioAntunes/fish-nvm
 ```
 
 Make sure you have [NVM] installed first.
@@ -150,6 +150,7 @@ Check out also **[fnm]** a pure fish node version manager with automatic version
 [slack-link]: https://fisherman-wharf.herokuapp.com
 [slack-badge]: https://fisherman-wharf.herokuapp.com/badge.svg
 [fisherman]: https://github.com/fisherman/fisherman
+[omf]: https://github.com/oh-my-fish/oh-my-fish
 [NVM]: https://github.com/creationix/nvm
 [fnm]: https://github.com/fisherman/fnm
 [brew]: https://brew.sh/
